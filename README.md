@@ -35,3 +35,4 @@ Basic conversational AI applications for demonstrations and learning purposes
 
 output:-
 
+<img width="1710" height="884" alt="Image" src="https://github.com/user-attachments/assets/30e2d1ea-a81e-47f8-a518-ff05e145d828" />
